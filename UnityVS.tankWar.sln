@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.tankWar.CSharp.Plugins", "UnityVS.tankWar.CSharp.Plugins.csproj", "{A0B0F8C4-0447-C0A9-4FBA-B8287C3C89C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.tankWar.CSharp", "UnityVS.tankWar.CSharp.csproj", "{4FD14FE6-C56B-F21D-F76C-0B4F53F0ECE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B0F8C4-0447-C0A9-4FBA-B8287C3C89C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B0F8C4-0447-C0A9-4FBA-B8287C3C89C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B0F8C4-0447-C0A9-4FBA-B8287C3C89C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B0F8C4-0447-C0A9-4FBA-B8287C3C89C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD14FE6-C56B-F21D-F76C-0B4F53F0ECE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD14FE6-C56B-F21D-F76C-0B4F53F0ECE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD14FE6-C56B-F21D-F76C-0B4F53F0ECE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD14FE6-C56B-F21D-F76C-0B4F53F0ECE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
